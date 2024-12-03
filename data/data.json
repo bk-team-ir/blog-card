@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "image": "/images/pubg.jpg",
+      "secondImage": "/images/pubg2.webp",
+      "imageName": "Dota2",
+      "tags": ["Game", "PUBG"],
+      "name": "PUBG",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "autherImg": "https://avatars.githubusercontent.com/u/161210322?s=100&v=4",
+      "autherName": "Scorpion 8X",
+      "time": "1d ago"
+    },
+    {
+      "id": 2,
+      "image": "/images/dota2.jpg",
+      "secondImage": "/images/dota2-2.jpg",
+      "imageName": "Dota2",
+      "tags": ["Game", "Dota2"],
+      "name": "Dota2",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "autherImg": "https://avatars.githubusercontent.com/u/143296865?v=4",
+      "autherName": "ahsharifi",
+      "time": "2h ago"
+    },
+    {
+      "id": 3,
+      "image": "/images/red-dead.jpg",
+      "secondImage": "/images/red-dead-2.jpg",
+      "imageName": "red dead",
+      "tags": ["Game", "Red Dead"],
+      "name": "Red Dead Redemption II ",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "autherImg": "https://avatars.githubusercontent.com/u/161210322?s=100&v=4",
+      "autherName": "Scorpion 8X",
+      "time": "1h ago"
+    }
+  ]
+}

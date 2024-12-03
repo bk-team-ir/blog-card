@@ -1,0 +1,63 @@
+@font-face {
+  font-family: vazir;
+  src: url("/fonts/Vazirmatn-Regular.woff2");
+}
+
+body {
+  background: linear-gradient(-90deg, #7f86d8, #90e2e2);
+  font-family: vazir;
+}
+
+#body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 60%;
+}
+
+.box img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.box h1 {
+  font-size: 3.5rem;
+  font-weight: normal;
+}
+
+.box .text p {
+  text-align: justify;
+  line-height: 2;
+  border-bottom: 2px solid #575353;
+  font-size: 18px;
+  opacity: 0.8;
+  margin: 0;
+}
+
+.end-box {
+  display: flex;
+}
+
+.box .end-box p {
+  padding: 10px 15px;
+  background-color: #006eff;
+  color: #fff;
+  border-radius: 25px;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 480px) {
+  .box {
+    width: 90%;
+  }
+
+  .box h1 {
+    margin: 10px 0;
+  }
+}
